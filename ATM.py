@@ -7,7 +7,7 @@
 accname='ketaki'
 pin=23
 data={"name":accname,"Pin":pin}
-print(data["name"])
+#print(data["name"])
     
 
 
